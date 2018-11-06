@@ -69,3 +69,8 @@ ascii_codes = {'a':97, 'b':98, 'c':99}
 for c in ascii_codes:
     print(c)
 
+# In[11]:
+
+#range함수를 범위로 지정한 예
+for c in range(10):
+    print(c)
