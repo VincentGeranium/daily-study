@@ -1,5 +1,13 @@
-# daily-study
-#This is my own daily study
+# 프로젝트명
+> ### Daily-Study
+---
+# 사용예시
+> ### daily-study 레포지토리 안에 있는 Swift-Study
+- 꼼꼼한 재은씨 문법편을 공부하고 스스로 정리한 내용들이 들어있습니다
+---
+# 업데이트
+- 190311 Repository 설명 README.md 편집
+---
 
 "VincentGeranium 의 daily study 입니다"
 
